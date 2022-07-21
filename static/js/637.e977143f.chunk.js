@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmarkdown_snippet=self.webpackChunkmarkdown_snippet||[]).push([[637],{7637:function(e,p,s){e.exports=s.p+"static/media/article.90dc798032a51db64196.md"}}]);
